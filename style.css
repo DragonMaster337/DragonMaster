@@ -1,0 +1,74 @@
+
+.head {
+   text-align: center;
+   color:maroon;
+}
+.instructions {
+    color: green;
+}
+
+
+
+body {
+    background-color: burlywood
+}
+
+#p {
+    margin-left: 6cm;
+    margin-right: 6cm;
+    color:darkgreen
+}
+
+ul {
+   margin-left: 6.5cm; 
+}
+
+h4 {
+    margin-left: 4cm;
+}
+
+ .y {
+    text-align: center;
+     color: firebrick
+}
+
+.mq {
+    text-align: center;
+    color:darkviolet
+}
+
+.y2 {
+    color:firebrick;
+}
+
+.tt {
+    color:forestgreen;
+}
+
+.h4 {
+    color:blue;
+    margin-left: 6cm;
+}
+
+.t {
+    color:dodgerblue;
+    margin-left: 6.5cm;
+}
+
+#pl {
+    color:darkblue;
+    margin-left: 7.5cm;
+}
+
+
+
+
+
+div {
+    background-color: lightgray;
+    text-align: center;
+}
+
+ {
+    text-align: center;
+}
