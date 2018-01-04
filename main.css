@@ -1,5 +1,5 @@
-div {
-    background-color: lightgray
+ div {
+    background-color: lightsalmon;
         
 }
 
@@ -9,8 +9,14 @@ div {
 
 .header {
     text-align: center;
+    color:aquamarine
 }
 
 #soon {
      margin-left: 0.5cm;
+}
+
+.cow {
+    background-color: chocolate;
+    
 }
