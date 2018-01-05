@@ -1,7 +1,4 @@
- div {
-    background-color: lightsalmon;
-        
-}
+ 
 
 .links {
     text-align: center;
@@ -14,9 +11,12 @@
 
 #soon {
      margin-left: 0.5cm;
+    background-color: green
 }
 
 .cow {
     background-color: chocolate;
     
 }
+
+
