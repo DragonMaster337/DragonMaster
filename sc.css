@@ -4,11 +4,15 @@ body {
     color: white
 }
 
-.mid {
+h1 {
     text-align-last: center;
 }
 
 a {
     color: aliceblue;
     
+}
+
+.mid {
+    text-align: center;
 }
